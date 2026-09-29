@@ -1,0 +1,77 @@
+{
+  "landing": {
+    "nav": {
+      "place": "La maison",
+      "rooms": "Chambres",
+      "faq": "FAQ",
+      "contact": "Contact"
+    },
+    "hero": {
+      "kicker": "Ralentir. Déconnecter. Être. Recommencer.",
+      "title": "Bienvenue chez vous",
+      "location": "Imsouane · Maroc",
+      "imageAlt": "Maryama — la maison à Imsouane",
+      "placeholder": "Déposez la photo principale"
+    },
+    "place": {
+      "label": "01 — La maison",
+      "heading": "Une maison de pêcheur restaurée dans les montagnes d'Imsouane.",
+      "paragraph1": "Maryama est plus qu'une maison. C'est un morceau du cœur de notre famille — bâti avec amour, avec résilience, et avec la conviction tranquille que même après une perte, quelque chose de beau peut renaître. En 2024, après la démolition du restaurant familial, mon père et moi sommes repartis de zéro avec une poignée de briques, les mains de son ami de toujours, Ibrahim, et une vision que j'étais alors la seule à voir.",
+      "paragraph2": "La maison porte le nom de ma mère, notre façon de garder sa présence dans tout ce que nous avons construit. Trois chambres, un jardin de saison où vous pouvez cueillir menthe et herbes aromatiques, et l'océan en contrebas. Notre souhait est simple : que vous laissiez le bruit derrière vous, que vous vous réveilliez face à la vue, que vous respiriez plus profondément, et que vous vous rappeliez ce que signifie simplement être.",
+      "paragraph3": "Les fins ne sont pas toujours des fins. Parfois, ce sont de discrets commencements. Bienvenue chez vous."
+    },
+    "gallery": {
+      "bay": {
+        "alt": "Les vagues entrant dans la baie d'Imsouane au pied des falaises",
+        "placeholder": "La baie sous la maison"
+      },
+      "pizza": {
+        "alt": "Une pizza qui cuit dans le four à bois",
+        "placeholder": "Soirée pizza"
+      },
+      "sunset": {
+        "alt": "Coucher de soleil sur l'Atlantique depuis la maison",
+        "placeholder": "Coucher de soleil sur l'eau"
+      }
+    },
+    "rooms": {
+      "label": "02 — Chambres",
+      "photoPlaceholder": "{name} — photo de la chambre"
+    },
+    "faq": {
+      "label": "03 — Bon à savoir",
+      "heading": "Vos questions, nos réponses.",
+      "note": "Pour toute autre question, écrivez-nous sur WhatsApp — nous répondons dans la journée.",
+      "checkIn": {
+        "question": "Arrivée et clés",
+        "answer": "L'arrivée se fait à partir de 15 h. Notre gérant vous accueille à la maison, vous remet les clés et vous fait visiter. Indiquez-nous votre heure d'arrivée et nous vous attendrons."
+      },
+      "checkout": {
+        "question": "Départ",
+        "answer": "Avant 11 h. Laissez les serviettes utilisées dans le panier de la salle de bain, lancez le lave-vaisselle, déposez les poubelles dans les bacs près du portail et rendez les clés à Khalid ou à l'endroit convenu."
+      },
+      "houseRules": {
+        "question": "Règlement de la maison",
+        "answer": "Interdiction de fumer à l'intérieur et sur le balcon. Calme de 22 h à 8 h. Seuls les hôtes enregistrés peuvent passer la nuit. Merci de fermer portes et fenêtres à clé lorsque vous sortez."
+      },
+      "kitchen": {
+        "question": "Cuisine, jardin, linge",
+        "answer": "La cuisine est entièrement équipée et à votre disposition, avec draps propres, serviettes, lave-linge et sèche-linge. Cueillez ce dont vous avez besoin dans le jardin de saison — menthe, herbes, légumes. Le marché du village est à quelques minutes à pied."
+      },
+      "activities": {
+        "question": "Surf et autres activités",
+        "answer": "Nous surfons avec nos hôtes la plus longue vague d'Afrique, du niveau débutant à intermédiaire. Aussi au programme : sessions de surfskate, les dunes de Timlaline au coucher du soleil, une randonnée de 40 minutes jusqu'à une plage cachée, une journée à Essaouira et des soirées pizza à la maison. Demandez-nous les dates et les tarifs."
+      }
+    },
+    "footer": {
+      "tagline": "Maison de charme · Trois chambres",
+      "addressLabel": "Adresse",
+      "addressLine1": "12 rue de l'Océan",
+      "addressLine2": "Imsouane 80000",
+      "addressLine3": "Maroc",
+      "contactLabel": "Contact",
+      "followLabel": "Suivre",
+      "closingLine": "Ralentir. Déconnecter. Être. Recommencer."
+    }
+  }
+}
